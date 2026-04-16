@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+
+# Data
+data/
+
+# Models
+models/
+
+# W&B
+wandb/
+
+# Secrets
+.env
+
+# Notebooks
+notebooks/01_model_and_tokenizer_understanding.ipynb
+notebooks/02_API_design.ipynb
+notebooks/.ipynb_checkpoints/
+
+# Other
+INTERVIEW.md
