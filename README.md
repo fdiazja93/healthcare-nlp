@@ -72,10 +72,10 @@ Every run logs train/val loss, macro-F1, learning rate, and run config to **Weig
 
 ### W&B in this portfolio
 
-All training curves, hyperparameter sweeps, and comparison plots live in my W&B workspace and are the primary artifact for judging the modeling work.
+All training curves, hyperparameter sweeps, and comparison plots live in my W&B workspace and are the primary artifact for judging the modeling work. Here is the link to the project in W&B:
 
 ```
-W&B report: https://wandb.ai/fdiazja-for-personal-projects/healthcare-nlp?nw=nwuserfdiazja
+https://wandb.ai/fdiazja-for-personal-projects/healthcare-nlp?nw=nwuserfdiazja
 ```
 
 ## Serving
