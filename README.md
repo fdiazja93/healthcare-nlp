@@ -4,7 +4,9 @@ End-to-end NLP project that fine-tunes BERT to classify biomedical sentences as 
 
 ## Live service
 
-The service is deployed on AWS ECS and is reachable at:
+The service is deployed on AWS ECS but is kept stopped to avoid unnecessary cloud costs. To request a demo, contact me at fdiazja@gmail.com, and I will spin it up within a few minutes.
+
+Once live, the service is reachable at:
 
 ```
 POST https://he-0aada1058ebd4ceebc51cc8efd635648.ecs.us-east-2.on.aws/predict
