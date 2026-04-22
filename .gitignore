@@ -20,6 +20,7 @@ wandb/
 # Notebooks
 notebooks/01_model_and_tokenizer_understanding.ipynb
 notebooks/02_API_design.ipynb
+notebooks/03_LoRA.ipynb
 notebooks/.ipynb_checkpoints/
 
 # Other
